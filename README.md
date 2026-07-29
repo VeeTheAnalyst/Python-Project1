@@ -1,4 +1,5 @@
-# GIft(Case Study) 1: Sales Forecast Engine
+# GIft(Case Study) 1:
+**Sales Forecast Engine**
 ## Project Overview
 This is a Python case study focused on building a simple sales forecasting engine. The goal of this project is to apply Python programming concepts to analyze sales data and gain meaning business insights that can support data-driven decision making.
 ## Objectives
