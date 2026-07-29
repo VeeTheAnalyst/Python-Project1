@@ -7,8 +7,8 @@ This is a Python case study focused on building a simple sales forecasting engin
 - Check stock levels of restocking
 - Determines product readiness for promotion
 ## Tools Used
--Python 
--Jupyter Notebook
+- Python 
+- Jupyter Notebook
 ## Concept Used
 - Variable & Data Types
 - Arithmetic Operations
