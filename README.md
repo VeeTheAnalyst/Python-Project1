@@ -1,2 +1,2 @@
-# Python-Project1
-Sales forecasting Engine 
+# Python-Case Study 1
+Sales Forecasting Engine 
